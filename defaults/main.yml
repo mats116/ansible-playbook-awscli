@@ -1,0 +1,2 @@
+awscli_install_dir: /usr/local/aws
+awscli_bin_location: /usr/local/bin/aws

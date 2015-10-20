@@ -16,6 +16,6 @@
     copy: no
 
 - name: install awscli
-  command: "/usr/local/src/awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws"
+  command: "/usr/local/src/awscli-bundle/install -i {{ awscli_install_dir }} -b {{ awscli_bin_location }}"
   args:
-    creates: /usr/local/aws
+    creates: "{{ awscli_install_dir }}"
