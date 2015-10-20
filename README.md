@@ -3,7 +3,9 @@ Ubuntu 14.04 LTS
 
 ## Synopsis
 
-Install [awscli](https://aws.amazon.com/cli/)
+Install [awscli](https://aws.amazon.com/cli/).
+
+Use [Bundled Installer](http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html#install-bundle-other-os), instead of `pip`.
 
 ## Requirements
 
