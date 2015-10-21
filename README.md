@@ -13,10 +13,10 @@ Use [Bundled Installer](http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/in
 
 ## Variables
 
-| parameter | required | default | choices | comments |
-| --- | --- | --- | --- | --- |
+| parameter | required | default | comments |
+| --- | --- | --- | --- |
 | awscli_install_dir | yes | /usr/local/aws |  |  |
-| awscli_bin_location | yes | /usr/local/bin/aws |  |  |
+| awscli_bin_location | yes | /usr/local/bin/aws |  |
 
 ## Examples
 
